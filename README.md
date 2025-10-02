@@ -7,7 +7,7 @@
 ## 🙍 About Me
 
 Hello, I'm Nils, a junior developer from Germany.  
-I enjoy building modern websites and apps — my focus is **React (Next.js)** combined with **Plone CMS**.  
+I enjoy building modern websites and apps - my focus is **React (Next.js)** combined with **Plone CMS**.  
 
 If you have an exciting opportunity that matches my skills and experience, don’t hesitate to reach out!  
 
