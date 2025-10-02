@@ -12,15 +12,22 @@ I enjoy building modern websites and apps — my focus is **React (Next.js)** co
 If you have an exciting opportunity that matches my skills and experience, don’t hesitate to reach out!  
 
 📬 **Get in touch:**  
-[![Gmail Badge](https://img.shields.io/badge/-business.nilspzr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:business.nilspzr@gmail.com)](mailto:business.nilspzr@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nils-pzr)](https://www.linkedin.com/in/nils-pzr)  
+<a href="mailto:business.nilspzr@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-business.nilspzr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+</a>  
+<a href="https://www.linkedin.com/in/nils-pzr" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>  
+<a href="https://www.nils-pzr.eu/#contact" target="_blank">
+  <img src="https://img.shields.io/badge/Contact%20Form-0A66C2?style=flat-square&logo=googleforms&logoColor=white" />
+</a>  
 
 ---
 
 ## 🌐 Portfolio
 
 🔗 Check out my projects and design work:  
-👉 [**nils-pzr.eu**](https://www.nils-pzr.eu)  
+👉 <a href="https://www.nils-pzr.eu" target="_blank"><b>nils-pzr.eu</b></a>  
 
 ---
 
@@ -70,7 +77,7 @@ If you have an exciting opportunity that matches my skills and experience, don�
 ---
 
 ## ☕ Support Me
-If you like my work, you can [**buy me a coffee**](https://www.buymeacoffee.com/nils.pzr) 💜  
+If you like my work, you can <a href="https://www.buymeacoffee.com/nils.pzr" target="_blank">**buy me a coffee**</a> 💜  
 
 ---
 
