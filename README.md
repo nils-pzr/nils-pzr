@@ -34,6 +34,7 @@ If you have an exciting opportunity that matches my skills and experience, donâ€
 ## ðŸ”§ Skills & Tools
 
 ### Frontend
+![Volto](https://img.shields.io/badge/Volto-007EC6?style=flat-square&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -44,6 +45,7 @@ If you have an exciting opportunity that matches my skills and experience, donâ€
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ### Backend & Databases
+![Plone](https://img.shields.io/badge/Plone-0083BE?style=flat-square&logo=plone&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-EEA221?style=flat-square&logo=drizzle&logoColor=black)
