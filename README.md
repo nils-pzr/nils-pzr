@@ -428,9 +428,15 @@ Gained first hands-on experience in IT infrastructure, Linux servers, SQL databa
 # GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nils-pzr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6&cache_seconds=86400" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Profile%20README-Polished-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Projects-Full%20Stack-6366F1?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CMS-Plone%20%2F%20Volto-0083BE?style=for-the-badge&logo=plone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Product%20Workflows-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-PSD%20I-4F46E5?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 </p>
 
 ---
