@@ -1,0 +1,23 @@
+{
+  "login": "nils-pzr",
+  "updated": "2026-10-24",
+  "member_since": 2022,
+  "contributions_total": 323,
+  "contributions_last_year": 288,
+  "streak_current": 0,
+  "streak_longest": 7,
+  "commits": 131,
+  "pull_requests": 19,
+  "issues": 169,
+  "stars": 1,
+  "public_repos": 2,
+  "followers": 0,
+  "languages": {
+    "TypeScript": 315275,
+    "Dockerfile": 5464,
+    "CSS": 4819,
+    "Shell": 4380,
+    "JavaScript": 993,
+    "Python": 28104
+  }
+}
